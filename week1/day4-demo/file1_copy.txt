@@ -1,0 +1,2 @@
+this is just a siimple test for adding text using the nano function
+
