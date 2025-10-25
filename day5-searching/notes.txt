@@ -1,0 +1,2 @@
+Devops learning day 5: grep and find commands
+Today's goal: master searching in files
