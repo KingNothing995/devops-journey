@@ -1,0 +1,16 @@
+2025-11-09 12:56:48 - === backup_status.sh started using config: ./backup.conf ===
+2025-11-09 12:56:48 - MISSING: Directory not found -> cat > backup.conf << 'EOF'
+2025-11-09 12:56:48 - OK: Directory exists -> /home/kingnothing/devops-journey
+2025-11-09 12:56:48 - OK: Directory exists -> /home/kingnothing/devops-journey/day9-bash-basics
+2025-11-09 12:56:48 - OK: Directory exists -> /tmp
+2025-11-09 12:56:48 - MISSING: Directory not found -> /does/not/exist
+2025-11-09 12:56:48 - MISSING: Directory not found -> EOF
+2025-11-09 12:56:48 - === backup_status.sh finished ===
+2025-11-09 12:58:26 - === backup_status.sh started using config: ./backup.conf ===
+2025-11-09 12:58:26 - MISSING: Directory not found -> cat > backup.conf << 'EOF'
+2025-11-09 12:58:26 - OK: Directory exists -> /home/kingnothing/devops-journey
+2025-11-09 12:58:26 - OK: Directory exists -> /home/kingnothing/devops-journey/day9-bash-basics
+2025-11-09 12:58:26 - OK: Directory exists -> /tmp
+2025-11-09 12:58:26 - MISSING: Directory not found -> /does/not/exist
+2025-11-09 12:58:26 - MISSING: Directory not found -> EOF
+2025-11-09 12:58:26 - === backup_status.sh finished ===

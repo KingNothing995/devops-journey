@@ -1,0 +1,5 @@
+this is a test file created where I can practice the nano editor. And I hate now mechanical keyboards because I make typeos frequently due to their sensitivity input. Thanks for attending my rant sessh.
+
+Also created testdir directory
+created testfile inside it
+edited testfiile with nanao editor and ranted and typed very angrily.
